@@ -1,2 +1,2 @@
-# hello-world
-this is a tutorial
+# my name is HJ
+I'm an entrepreneur
